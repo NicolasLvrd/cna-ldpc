@@ -1,5 +1,7 @@
 % /!\ on admet code le code LDPC est régulier
 
+% HARIRI, JERBI, LEVRARD, RUFFLE, SAMI 
+
 % ON NOTE :
 % c_node -> index j of c_node f_j
 % v_node -> index i of v_node c_i

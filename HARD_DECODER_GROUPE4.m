@@ -1,5 +1,7 @@
 % /!\ on admet code le code LDPC est régulier
 
+% HARIRI, JERBI, LEVRARD, RUFFLE, SAMI 
+
 function [c_cor] = HARD_DECODER_GROUPE0(c, H, MAX_ITER)
 
 c_cor = c; % au début le mot code corrigé est le mot code reçu

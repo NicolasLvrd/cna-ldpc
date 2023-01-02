@@ -56,8 +56,8 @@ for n = 1:N_data
     
     % Run the decoders
     % Replace i with your group number.
-    c_hard = HARD_DECODER_GROUPE0(c_ds_flip, H, MAX_ITER);
-    c_soft = SOFT_DECODER_GROUPE0(c_ds_flip, H, P1_ds, MAX_ITER);
+    c_hard = HARD_DECODER_GROUPE4(c_ds_flip, H, MAX_ITER);
+    c_soft = SOFT_DECODER_GROUPE4(c_ds_flip, H, P1_ds, MAX_ITER);
     
     % Comparison with the true codeword
     % If the they return 1, the two vectors are equal.
